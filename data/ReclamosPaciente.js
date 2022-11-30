@@ -1,0 +1,26 @@
+export const RECLAMOS_DATA = [
+    {
+      id: "AjdaAFSAasJSd2JADOJ34SJSdlkA_ad23",
+      num_reclamo: "212",
+      id_paciente: "dasdDFJlkNS",
+      id_profesional:"9jj8u8SO9uhA9PHiiuIUhIU",
+      nombre_paciente: "Pablo Burgos",
+      nombre_profesional: "Juan Pérez Sánchez",
+      titulo: "Reclamos por Mala praxis",
+      description: "asdAU   sdasiduh auoasdAU   sdasiduh auoDH uaIsd ñasdDH asdAU   sdasiduh auoDH uaIsd ñasduaIsd ñasdAU   sdasiduh auoDH uaIsd ñasdasd",
+      fecha_reclamo: "22/11/2022",
+      estado: "Enviado",
+    },
+    {
+      id: "AjdaAFSAasJSd2JADOJ34wf23dlkA_ad23",
+      num_reclamo: "212",
+      id_paciente: "dasdDFJlkNS",
+      id_profesional:"9jj8u8SO9uhA9PHiiuIUhIU",
+      nombre_paciente: "Rodrigo Ramírez",
+      nombre_profesional: "Juan Pérez Sánchez",
+      titulo: "Tengo Otro reclamo",
+      description: "asdAU   sdasiduh auoDH uaIsd ñasd",
+      fecha_reclamo: "22/11/2022",
+      estado: "Enviado",
+    },
+  ];
